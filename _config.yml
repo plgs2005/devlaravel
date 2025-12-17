@@ -1,0 +1,25 @@
+title: DevLaravel
+description: Site de desenvolvimento com Laravel e tecnologias web
+theme: minima
+url: "https://plgs2005.github.io"
+baseurl: ""
+
+# Configurações do autor
+author:
+  name: plgs2005
+
+# Configurações de redes sociais
+github_username: plgs2005
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
