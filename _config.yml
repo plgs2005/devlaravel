@@ -2,7 +2,7 @@ title: DevLaravel
 description: Site de desenvolvimento com Laravel e tecnologias web
 theme: minima
 url: "https://plgs2005.github.io"
-baseurl: ""
+baseurl: "/devlaravel"
 
 # Configurações do autor
 author:
